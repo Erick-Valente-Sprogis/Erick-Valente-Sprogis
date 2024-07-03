@@ -14,7 +14,7 @@
 - Ele/Dele (He/Him)
 #### Studying
 - Análise e Desenvolvimento de Sistemas (ADS) na Unimetrocamp - 0.5/2.5
-- Estundando JavaScript
+- Estudando JavaScript
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
