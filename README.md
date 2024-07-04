@@ -8,7 +8,7 @@
 </a>
 
 ### About Me
-- My name is Erick Valente
+- My name is Erick Valente Sprogis
 - I'm from São Paulo, Brazil
 #### Pronouns
 - Ele/Dele (He/Him)
