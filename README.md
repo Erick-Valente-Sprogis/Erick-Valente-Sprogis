@@ -8,13 +8,13 @@
 </a>
 
 ### About Me
-- My name is Erick Valente Sprogis
-- I'm from São Paulo, Brazil
+- My name is Erick Valente Sprogis.
+- I'm from São Paulo, Brazil.
 #### Pronouns
-- Ele/Dele (He/Him)
+- Ele/Dele (He/Him).
 #### Studying
-- Análise e Desenvolvimento de Sistemas (ADS) na Unimetrocamp - 0.5/2.5
-- Estudando JavaScript
+- System Analisys and Development (SAD) at Unimetrocamp - 0.5/2.5 sem.
+- Learning JavaScript.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
