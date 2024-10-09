@@ -14,7 +14,7 @@
 - Ele/Dele (He/Him).
 #### Studying
 - System Analisys and Development (SAD) at Unimetrocamp - 1.0/2.5 sem.
-- Learning JavaScript, PHP and Python.
+- Learning JavaScript, PHP, Python and SQL.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
