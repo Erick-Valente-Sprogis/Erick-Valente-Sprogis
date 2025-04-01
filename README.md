@@ -46,7 +46,7 @@
   <a href="https://www.sqlite.org/docs.html"><img align="center" alt="SQLite" height="40" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlite/sqlite-original.svg"></a>
   <a href="https://docs.sqlalchemy.org/en/20/"><img align="center" alt="SQLAlchemy" height="40" width="40" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuim-LaZV2h_liFO_YNZLMVZZbv47mTOxFkw&s"></a>
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlalchemy/sqlalchemy-original.svg"></a>
   <a href="https://help.ubuntu.com/"><img align="center" alt="Ubuntu" height="40" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ubuntu/ubuntu-original.svg"></a>
   <a href="https://code.visualstudio.com/docs"><img align="center" alt="VScode" height="40" width="40" 
