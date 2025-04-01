@@ -1,10 +1,10 @@
 ### Hello World! 🤙
 
 <a href="https://github.com/Erick-Valente-Sprogis/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Erick-Valente-Sprogis&show_icons=true&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Erick-Valente-Sprogis&show_icons=true&theme=outrun" />
 </a>
 <a href="https://github.com/Erick-Valente-Sprogis/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick-Valente-Sprogis&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick-Valente-Sprogis&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=outrun" />
 </a>
 
 ### About Me
@@ -17,40 +17,40 @@
 - Learning JavaScript, PHP, Python, JAVA, React, Git, Node and SQL.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="35" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="35" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="35" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="40" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg">
-  <img align="center" alt="PHP" height="40" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/php/php-original.svg">
-  <img align="center" alt="Python" height="40" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg">
-  <img align="center" alt="Bootstrap" height="40" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Flask" height="40" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="Git" height="40" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg">
-  <img align="center" alt="JAVA" height="40" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
-  <img align="center" alt="Markdown" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/markdown/markdown-original.svg">
-  <img align="center" alt="React" height="40" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Sass" height="40" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sass/sass-original.svg">
-  <img align="center" alt="SQLite" height="40" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="SQLAlchemy" height="40" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlalchemy/sqlalchemy-original.svg">
-  <img align="center" alt="Ubuntu" height="40" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ubuntu/ubuntu-original.svg">
-  <img align="center" alt="VScode" height="40" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="35" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img align="center" alt="HTML" height="35" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://www.w3.org/TR/css/#css"><img align="center" alt="CSS" height="35" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://devdocs.io/c/"><img align="center" alt="C" height="40" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg"></a>
+  <a href="https://www.php.net/docs.php"><img align="center" alt="PHP" height="40" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/php/php-original.svg"></a>
+  <a href="https://docs.python.org/3/"><img align="center" alt="Python" height="40" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg"></a>
+  <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img align="center" alt="Bootstrap" height="40" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg"></a>
+  <a href="https://flask.palletsprojects.com/en/stable/"><img align="center" alt="Flask" height="40" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/flask/flask-original-wordmark.svg"></a>
+  <a href="https://git-scm.com/doc"><img align="center" alt="Git" height="40" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg"></a>
+  <a href="https://docs.oracle.com/en/java/"><img align="center" alt="JAVA" height="40" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg"></a>
+  <a href="https://www.markdownguide.org/"><img align="center" alt="Markdown" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/markdown/markdown-original.svg"></a>
+  <a href="https://react.dev/"><img align="center" alt="React" height="40" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original-wordmark.svg"></a>
+  <a href="https://sass-lang.com/documentation/"><img align="center" alt="Sass" height="40" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sass/sass-original.svg"></a>
+  <a href="https://www.sqlite.org/docs.html"><img align="center" alt="SQLite" height="40" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlite/sqlite-original.svg"></a>
+  <a href="https://docs.sqlalchemy.org/en/20/"><img align="center" alt="SQLAlchemy" height="40" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlalchemy/sqlalchemy-original.svg"></a>
+  <a href="https://help.ubuntu.com/"><img align="center" alt="Ubuntu" height="40" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ubuntu/ubuntu-original.svg"></a>
+  <a href="https://code.visualstudio.com/docs"><img align="center" alt="VScode" height="40" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg"></a>
 </div>
   
   ##
