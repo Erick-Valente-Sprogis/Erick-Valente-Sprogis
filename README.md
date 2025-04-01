@@ -32,7 +32,7 @@
   <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img align="center" alt="Bootstrap" height="40" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg"></a>
   <a href="https://flask.palletsprojects.com/en/stable/"><img align="center" alt="Flask" height="40" width="40" 
-    src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png"></a>
+    src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png"></a>
   <a href="https://git-scm.com/doc"><img align="center" alt="Git" height="40" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg"></a>
   <a href="https://docs.oracle.com/en/java/"><img align="center" alt="JAVA" height="40" width="40" 
