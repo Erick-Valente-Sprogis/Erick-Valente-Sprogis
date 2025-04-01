@@ -37,10 +37,8 @@
     src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg">
   <img align="center" alt="JAVA" height="40" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
-  <span style="background-color: #fff; padding: 2px; border-radius: 5px;">
-    <img align="center" alt="Markdown" height="40" width="40" 
-        src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/markdown/markdown-original.svg">
-</span>
+  <img align="center" alt="Markdown" height="40" width="40" style="background-color: #fff;"
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/markdown/markdown-original.svg">
   <img align="center" alt="React" height="40" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Sass" height="40" width="40" 
