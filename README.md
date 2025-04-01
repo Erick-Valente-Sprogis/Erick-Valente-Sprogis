@@ -16,7 +16,7 @@
 - System Analisys and Development (SAD) at Unimetrocamp - 1.5/2.5 sem.
 - Learning JavaScript, PHP, Python, JAVA, React, Git, Node and SQL.
 
-<div style="display: inline_block color: #fff"><br>
+<div style="display: inline_block background-color: #fff"><br>
   <img align="center" alt="JavaScript" height="35" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="35" width="40" 
