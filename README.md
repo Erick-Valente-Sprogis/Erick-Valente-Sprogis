@@ -32,7 +32,7 @@
   <img align="center" alt="Bootstrap" height="40" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Flask" height="40" width="40" 
-    src="[https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/flask/flask-original.svg](https://images.seeklogo.com/logo-png/27/1/flask-logo-png_seeklogo-273085.png)">
+    src="https://images.seeklogo.com/logo-png/27/1/flask-logo-png_seeklogo-273085.png">
   <img align="center" alt="Git" height="40" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg">
   <img align="center" alt="JAVA" height="40" width="40" 
