@@ -38,7 +38,7 @@
   <a href="https://docs.oracle.com/en/java/"><img align="center" alt="JAVA" height="40" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg"></a>
   <a href="https://www.markdownguide.org/"><img align="center" alt="Markdown" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/markdown/markdown-original.svg"></a>
+    src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg"></a>
   <a href="https://react.dev/"><img align="center" alt="React" height="40" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original-wordmark.svg"></a>
   <a href="https://sass-lang.com/documentation/"><img align="center" alt="Sass" height="40" width="40" 
