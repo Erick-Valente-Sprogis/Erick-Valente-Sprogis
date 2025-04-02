@@ -13,7 +13,7 @@
 #### Pronouns
 - Ele/Dele (He/Him).
 #### Studying
-- System Analisys and Development (SAD) at Unimetrocamp - 1.5/2.5 sem.
+- System Analysis and Development at Unimetrocamp - 1.5/2.5 sem.
 - Learning JavaScript, PHP, Python, JAVA, React, Git, Node and SQL.
 
 <div style="display: inline_block"><br>
