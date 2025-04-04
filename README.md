@@ -14,7 +14,7 @@
 - Ele/Dele (He/Him).
 #### Studying
 - System Analysis and Development at Unimetrocamp - 1.5/2.5 sem.
-- Learning JavaScript, Vue.js, TypeScript, PHP, Python, JAVA, React, Git, Node and SQL.
+- Learning JavaScript, Vue.js/Vuetify, TypeScript, PHP, Python, JAVA, React, Git, Node and SQL.
 
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="35" width="40" 
