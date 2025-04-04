@@ -14,7 +14,7 @@
 - Ele/Dele (He/Him).
 #### Studying
 - System Analysis and Development at Unimetrocamp - 1.5/2.5 sem.
-- Learning JavaScript, PHP, Python, JAVA, React, Git, Node and SQL.
+- Learning JavaScript, Vue.js, TypeScript, PHP, Python, JAVA, React, Git, Node and SQL.
 
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="35" width="40" 
@@ -49,8 +49,12 @@
     src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlalchemy/sqlalchemy-original.svg"></a>
   <a href="https://help.ubuntu.com/"><img align="center" alt="Ubuntu" height="40" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ubuntu/ubuntu-original.svg"></a>
-  <a href="https://code.visualstudio.com/docs"><img align="center" alt="VScode" height="40" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg"></a>
+  <a href="https://vuejs.org/"><img align="center" alt="Vue.js" height="40" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vuejs/vuejs-original.svg"></a>
+  <a href="https://vuetifyjs.com/en/"><img align="center" alt="Vuetify" height="40" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vuetify/vuetify-original.svg"></a>
+  <a href="https://www.oracle.com/br/"><img align="center" alt="Oracle" height="40" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/oracle/oracle-original.svg"></a>
 </div>
   
   ##
