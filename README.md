@@ -1,12 +1,5 @@
 ### Hello World! 🤙
 
-<a href="https://github.com/Erick-Valente-Sprogis/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Erick-Valente-Sprogis&show_icons=true&theme=outrun" />
-</a>
-<a href="https://github.com/Erick-Valente-Sprogis/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick-Valente-Sprogis&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=outrun" />
-</a>
-
 ### About Me
 - My name is Erick Valente Sprogis.
 - I'm from São Paulo, Brazil.
