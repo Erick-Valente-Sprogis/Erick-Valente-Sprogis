@@ -6,7 +6,7 @@
 #### Pronouns
 - Ele/Dele (He/Him).
 #### Studying
-- System Analysis and Development at Unimetrocamp - 1.5/2.5 sem.
+- System Analysis and Development at Unimetrocamp - 2.5/2.5 sem.
 - Learning JavaScript, Vue.js/Vuetify, TypeScript, PHP, Python, JAVA, React, Git, Node and SQL.
 
 
