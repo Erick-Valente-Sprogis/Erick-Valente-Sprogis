@@ -24,4 +24,4 @@
 
 ## 📊 GitHub Stats
 
-![Erick-Valente-Sprogis GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-Valente-Sprogis&show_icons=true&theme=transparent)
+[![Erick-Valente-Sprogis's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Erick-Valente-Sprogis)](https://github.com/pranesh-2005/github-readme-stats-fast)
