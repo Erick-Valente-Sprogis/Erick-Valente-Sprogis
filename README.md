@@ -24,4 +24,4 @@
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-Valente-Sprogis&show_icons=true&theme=transparent)
+![Erick-Valente-Sprogis GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-Valente-Sprogis&show_icons=true&theme=transparent)
